@@ -6,7 +6,7 @@ Navegador Firefox
 
 
 ;Experience a fast, smart and personal Web.
-Experimenta una Web rápida, inteligente y personal.
+Vive una Web rápida, inteligente y personal.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
@@ -23,7 +23,7 @@ RÁPIDO. INTELIGENTE. TUYO.
 
 
 ;Firefox is made with you in mind. That’s why we design the product with smart features that take the guesswork out of browsing.
-Hacemos Firefox pensando en ti. Diseñamos el navegador con las funciones más inteligentes para que tú no tengas que pensar en nada.
+Hacemos Firefox pensando en ti. Es por eso que diseñamos el navegador con las funciones inteligentes para evitar qur tengas que adivinar mientras navegas.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -37,11 +37,11 @@ Firefox se anticipa a tus necesidades y te ofrece de manera intuitiva múltiples
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-ACCEDER A TUS SITIOS PREFERIDOS, MÁS FACIL
+ACCEDE FÁCILMENTE A TUS SITIOS PREFERIDOS
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-Pasa más tiempo leyendo tus sitios favoritos en lugar de buscarlos.
+Pasa el tiempo leyendo tus sitios favoritos en lugar de buscándolos.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -50,7 +50,7 @@ SINCRONIZA FIREFOX EN TODOS TUS DISPOSITIVOS
 
 
 ;With a Firefox Account, access your history and open tabs everywhere you use Firefox.
-Con una cuenta de Firefox, accede a tu historial y a tus pestañas abiertas dondequiera que uses Firefox.
+Con una cuenta de Firefox, accede a tu historial y abre tus pestañas dondequiera que uses Firefox.
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
@@ -67,7 +67,7 @@ Encuentra contenido fácilmente con las pestañas numeradas, visuales e intuitiv
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-Abre todas las pestañas que quieras sin perder de vista tus páginas web abiertas.
+Abre tantas las pestañas como quieras sin perder de vista tus páginas web abiertas.
 
 
 ;Learn more about Firefox for iOS:
@@ -75,7 +75,7 @@ Descubre más sobre Firefox para iOS:
 
 
 ;Have questions or need help? Visit {{support_link}}
-¿Tienes alguna pregunta o necesitas ayuda? Visita {{support_link}}
+¿Tienes preguntas o necesitas ayuda? Visita {{support_link}}
 
 
 # Bulleted list item
@@ -108,7 +108,7 @@ Mozilla existe para garantizar que Internet sea un recurso público y accesible 
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-Construimos productos como Firefox para promover la elección y la transparencia, y ofrecer a la gente más control sobre sus vidas digitales.
+Construimos productos como Firefox para promover la elección y la transparencia, y ofrecerle a la gente más control sobre sus vidas en línea.
 
 
 ;Learn more at {{mozilla_org_link}}
@@ -118,25 +118,17 @@ Descubre más en {{mozilla_org_link}}
 ;Privacy Policy: {{privacy_link}}
 Política de privacidad: {{privacy_link}}
 
-
-# Screenshot text, displayed as a bold title
-;Fast. Smart. Yours
-Rápido. Inteligente. Tuyo
-
-
-# Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
-;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
-Actualiza al poder de Firefox y<br>únete a centenares de millones de<br>usuarios Firefox en escritorio y dispositivos móviles.
+Firefox en escritorio y dispositivos móviles.
 
 
 # Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
-Actualiza al poder de Firefox y<br>únete a centenares de millones de usuarios Firefox
+Súbete al poder de Firefox y<br>únete a centenares de millones de usuarios de Firefox
 
 
 # Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
 ;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
-Actualiza a Firefox y<br>únete a centenares de millones de usuarios Firefox
+Súbete a Firefox y<br>únete a centenares de millones de usuarios de Firefox
 
 
 # Adjust line break tag position (<br>) for your language
@@ -146,7 +138,7 @@ Presentamos<br>Firefox para iOS<br>¡Descárgalo ya!
 
 # Screenshot text, displayed as a bold title
 ;Intuitive visual tab design
-Diseño de pestañas visual e intuitivo
+Diseño visual e intuitivo de las pestañas 
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -181,7 +173,7 @@ Navegación privada
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Make specific tabs private and browse<br>the Web without your history being saved
-Puedes hacer una pestaña privada y navegar<br>por la Web sin que se guarde tu historial
+Puedes hacer privada una pestaña específica y navegar<br>por la Web sin que se guarde tu historial
 
 
 # metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
